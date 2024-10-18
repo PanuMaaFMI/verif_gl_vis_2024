@@ -1,0 +1,4232 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>METCOOP</TAG>
+<VAR>Visibility</VAR>
+<UNIT>m</UNIT>
+<PERIOD>20220310-20220313</PERIOD>
+ <STATION>
+ <MEAN_OBS>   2651.42847     </MEAN_OBS>
+ <STDV_OBS>   11580.9102     </STDV_OBS>
+ <EXP>
+ <ID>        1001 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          35 </NUM>
+ <MEAN>   3918.28345     </MEAN>
+ <STDV>   1.51910090E+23 </STDV>
+ <BIAS>   9458.21680     </BIAS>
+ <RMSE>  0.148914307     </RMSE>
+ <CORR>   8.25500030E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1001 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          35 </NUM>
+ <MEAN>   7.37223122E-42 </MEAN>
+ <STDV>   7.37223122E-42 </STDV>
+ <BIAS>   11795.9189     </BIAS>
+ <RMSE> -0.167766497     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1001 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          35 </NUM>
+ <MEAN>   1.51910379E+23 </MEAN>
+ <STDV>   7.85316743E-31 </STDV>
+ <BIAS>   12032.2764     </BIAS>
+ <RMSE>   5.71634956E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1001 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          35 </NUM>
+ <MEAN>   7.37223122E-42 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   11753.7852     </BIAS>
+ <RMSE> -0.173868120     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   368.181824     </MEAN_OBS>
+ <STDV_OBS>   22828.9492     </STDV_OBS>
+ <EXP>
+ <ID>        1047 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   19825.7227     </MEAN>
+ <STDV>   7.74610434E-31 </STDV>
+ <BIAS>   13931.0068     </BIAS>
+ <RMSE>  0.474838555     </RMSE>
+ <CORR>   2.55217167E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1047 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   21961.8262     </BIAS>
+ <RMSE>  0.703882575     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1047 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   18626.7988     </BIAS>
+ <RMSE>  0.777020574     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1047 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   22152.8945     </BIAS>
+ <RMSE>  0.688880742     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   666.666687     </MEAN_OBS>
+ <STDV_OBS>   23764.0430     </STDV_OBS>
+ <EXP>
+ <ID>        1057 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   18553.2598     </MEAN>
+ <STDV>   3.43894230E+16 </STDV>
+ <BIAS>   14947.9062     </BIAS>
+ <RMSE>  0.467087537     </RMSE>
+ <CORR>   4.80528672E+16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1057 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   21792.4102     </BIAS>
+ <RMSE>  0.707602024     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1057 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   16804.4551     </BIAS>
+ <RMSE>  0.604663908     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1057 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   22305.0195     </BIAS>
+ <RMSE>  0.672238827     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   500.000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        1065 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   4.80530046E+16 </STDV>
+ <BIAS>   4158.51318     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.58307109E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1065 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1065 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8504.61328     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1065 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   500.000000     </MEAN_OBS>
+ <STDV_OBS>   122.977898     </STDV_OBS>
+ <EXP>
+ <ID>        1199 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           5 </NUM>
+ <MEAN>   284.813690     </MEAN>
+ <STDV>   4.80530046E+16 </STDV>
+ <BIAS>   88.6223145     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.58307109E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1199 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           5 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   88.4718323     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1199 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           5 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   88.6223145     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1199 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           5 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   109.994835     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   900.000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        1359 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.50249449E+22 </STDV>
+ <BIAS>   494.772675     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.41525406E+16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1359 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1359 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1359 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2100.00000     </MEAN_OBS>
+ <STDV_OBS>   23445.3105     </STDV_OBS>
+ <EXP>
+ <ID>        1380 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           7 </NUM>
+ <MEAN>   36272.4609     </MEAN>
+ <STDV>   1.26087542E-07 </STDV>
+ <BIAS>   17086.3555     </BIAS>
+ <RMSE>  0.372916967     </RMSE>
+ <CORR>   2.58306389E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1380 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           7 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   23292.7695     </BIAS>
+ <RMSE> -0.923272371     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1380 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           7 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   17711.8008     </BIAS>
+ <RMSE> -0.596039772     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1380 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           7 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   23424.4590     </BIAS>
+ <RMSE> -0.923338652     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4048.75000     </MEAN_OBS>
+ <STDV_OBS>   22136.9180     </STDV_OBS>
+ <EXP>
+ <ID>        1435 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   14144.2754     </MEAN>
+ <STDV>   2.58307109E+22 </STDV>
+ <BIAS>   16868.6270     </BIAS>
+ <RMSE> -0.698458493     </RMSE>
+ <CORR>   4.80530046E+16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1435 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   20895.8613     </BIAS>
+ <RMSE> -0.367243201     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1435 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   20969.1973     </BIAS>
+ <RMSE> -0.354544222     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1435 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   21240.0664     </BIAS>
+ <RMSE> -0.357871562     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5000.00000     </MEAN_OBS>
+ <STDV_OBS>   101.508621     </STDV_OBS>
+ <EXP>
+ <ID>        1439 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   11937.0498     </MEAN>
+ <STDV>   2.55248152E+22 </STDV>
+ <BIAS>   5.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.50900849E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1439 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   255.937485     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1439 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.93573093     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1439 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   71.7495651     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3500.00000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        1459 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.58335932E+22 </STDV>
+ <BIAS>   150.449326     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   7.81338306E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1459 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1459 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   244.649902     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1459 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3310.00000     </MEAN_OBS>
+ <STDV_OBS>   27632.7832     </STDV_OBS>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           3 </NUM>
+ <MEAN>   18118.2344     </MEAN>
+ <STDV>   1.23426219E-07 </STDV>
+ <BIAS>   4897.00244     </BIAS>
+ <RMSE> -0.295305043     </RMSE>
+ <CORR>   3.48510225E+16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           3 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   23472.8145     </BIAS>
+ <RMSE> -0.465095282     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           3 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   12697.1055     </BIAS>
+ <RMSE> -0.433012724     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           3 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   23480.4668     </BIAS>
+ <RMSE> -0.464761943     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3880.00000     </MEAN_OBS>
+ <STDV_OBS>   993.768555     </STDV_OBS>
+ <EXP>
+ <ID>        2024 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   6166.40039     </MEAN>
+ <STDV>   2.58340256E+22 </STDV>
+ <BIAS>   700.800598     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   7.81338306E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2024 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   700.800598     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2024 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   12697.1055     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   700.800598     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2024 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   23480.4668     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   702.699097     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   453.076935     </MEAN_OBS>
+ <STDV_OBS>   24589.5840     </STDV_OBS>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          13 </NUM>
+ <MEAN>   20152.3066     </MEAN>
+ <STDV>   2.55249593E+22 </STDV>
+ <BIAS>   18473.5762     </BIAS>
+ <RMSE>  0.818861067     </RMSE>
+ <CORR>   2.50902291E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          13 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   23234.5664     </BIAS>
+ <RMSE>  0.821962953     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          13 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   23209.8848     </BIAS>
+ <RMSE>  0.842837930     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          13 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   23408.0957     </BIAS>
+ <RMSE>  0.833945334     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   220.000000     </MEAN_OBS>
+ <STDV_OBS>   982.779724     </STDV_OBS>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   1642.29565     </MEAN>
+ <STDV>   1.23426219E-07 </STDV>
+ <BIAS>   1340.54297     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   7.74611939E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1588.25696     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1575.85229     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   851.112122     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   400.000000     </MEAN_OBS>
+ <STDV_OBS>   22937.9570     </STDV_OBS>
+ <EXP>
+ <ID>        2044 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   15691.5996     </MEAN>
+ <STDV>   2.58306389E+22 </STDV>
+ <BIAS>   740.308044     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.94662550E+16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2044 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   18740.4570     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2044 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   1575.85229     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1010.42267     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2044 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   851.112122     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   19864.8535     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   300.000000     </MEAN_OBS>
+ <STDV_OBS>   442.199249     </STDV_OBS>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   797.794983     </MEAN>
+ <STDV>   1.26192376E-07 </STDV>
+ <BIAS>   456.609863     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.50249449E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   447.710297     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   456.609863     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   382.955719     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   315.000000     </MEAN_OBS>
+ <STDV_OBS>   5366.20801     </STDV_OBS>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   2770.87402     </MEAN>
+ <STDV>   2.58307109E+22 </STDV>
+ <BIAS>   1718.61499     </BIAS>
+ <RMSE>  0.678023160     </RMSE>
+ <CORR>   2.50900849E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   11178.1748     </BIAS>
+ <RMSE>  0.438416511     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   456.609863     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1973.74792     </BIAS>
+ <RMSE>  0.664824784     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   382.955719     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4988.69971     </BIAS>
+ <RMSE>  0.480831504     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1913.33337     </MEAN_OBS>
+ <STDV_OBS>   17245.4180     </STDV_OBS>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   40116.1211     </MEAN>
+ <STDV>   2.55191564E+22 </STDV>
+ <BIAS>   17366.0723     </BIAS>
+ <RMSE>  0.133253515     </RMSE>
+ <CORR>   2.50897247E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   12435.6699     </BIAS>
+ <RMSE>  0.471899569     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   15502.2949     </BIAS>
+ <RMSE>  0.423048019     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   16143.8809     </BIAS>
+ <RMSE>  0.414208382     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1443.33337     </MEAN_OBS>
+ <STDV_OBS>   22986.8086     </STDV_OBS>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          30 </NUM>
+ <MEAN>   25921.2988     </MEAN>
+ <STDV>   7.74969336E-31 </STDV>
+ <BIAS>   11105.1982     </BIAS>
+ <RMSE>  0.435594320     </RMSE>
+ <CORR>   2.58335932E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          30 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   21743.2109     </BIAS>
+ <RMSE>  0.477941394     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          30 </NUM>
+ <MEAN>   15502.2949     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   14111.2988     </BIAS>
+ <RMSE>  0.797857761     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          30 </NUM>
+ <MEAN>   16143.8809     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   21713.2949     </BIAS>
+ <RMSE>  0.530731142     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3360.00000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.58307109E+22 </STDV>
+ <BIAS>   1737.74792     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.41525406E+16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6761.90723     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1095.00000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.50255213E+22 </STDV>
+ <BIAS>   2930.24512     </BIAS>
+ <RMSE> -0.893228889     </RMSE>
+ <CORR>   4.94662550E+16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   94.6572800     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   11272.3467     </BIAS>
+ <RMSE> -0.800731540     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   94.6572800     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   665.000000     </MEAN_OBS>
+ <STDV_OBS>   23533.3535     </STDV_OBS>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   28000.8496     </MEAN>
+ <STDV>   2.55184358E+22 </STDV>
+ <BIAS>   1050.74451     </BIAS>
+ <RMSE>  0.688835382     </RMSE>
+ <CORR>   2.58306389E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   19753.5059     </BIAS>
+ <RMSE>  0.996112883     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   11272.3467     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8257.25977     </BIAS>
+ <RMSE>  0.777941287     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   94.6572800     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   21658.6738     </BIAS>
+ <RMSE>  0.999351203     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1354.00000     </MEAN_OBS>
+ <STDV_OBS>   20918.1504     </STDV_OBS>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   35146.2500     </MEAN>
+ <STDV>   1.26192376E-07 </STDV>
+ <BIAS>   3669.76904     </BIAS>
+ <RMSE>  -6.32181540E-02 </RMSE>
+ <CORR>   2.58335932E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   17779.4414     </BIAS>
+ <RMSE>  0.287641346     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   8257.25977     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   12917.9150     </BIAS>
+ <RMSE> -0.191925198     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   21658.6738     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   19947.8652     </BIAS>
+ <RMSE>  0.316562772     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   430.000000     </MEAN_OBS>
+ <STDV_OBS>   20056.7227     </STDV_OBS>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   38468.6094     </MEAN>
+ <STDV>   1.21167830E-07 </STDV>
+ <BIAS>   3724.86670     </BIAS>
+ <RMSE> -0.914266109     </RMSE>
+ <CORR>   4.80530046E+16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   17485.3438     </BIAS>
+ <RMSE> -0.560195684     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   13957.8320     </BIAS>
+ <RMSE> -0.809716940     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   18872.2734     </BIAS>
+ <RMSE> -0.550929606     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   150.000000     </MEAN_OBS>
+ <STDV_OBS>   20058.3086     </STDV_OBS>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   39194.7734     </MEAN>
+ <STDV>   2.55191564E+22 </STDV>
+ <BIAS>   2638.96338     </BIAS>
+ <RMSE> -0.585290313     </RMSE>
+ <CORR>   2.50897247E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   14960.1973     </BIAS>
+ <RMSE> -0.553747416     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   13957.8320     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   11561.7910     </BIAS>
+ <RMSE> -0.493075132     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   18872.2734     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   18791.6680     </BIAS>
+ <RMSE> -0.575884402     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2400.00000     </MEAN_OBS>
+ <STDV_OBS>   24125.8340     </STDV_OBS>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   30402.4102     </MEAN>
+ <STDV>   2.58307109E+22 </STDV>
+ <BIAS>   12480.5342     </BIAS>
+ <RMSE>  0.734111071     </RMSE>
+ <CORR>   3.41525406E+16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   21742.6875     </BIAS>
+ <RMSE>  0.659152091     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   17688.4180     </BIAS>
+ <RMSE>  0.854102552     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   22156.3945     </BIAS>
+ <RMSE>  0.660832703     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1090.00000     </MEAN_OBS>
+ <STDV_OBS>   16101.5420     </STDV_OBS>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   42083.8594     </MEAN>
+ <STDV>   2.50250890E+22 </STDV>
+ <BIAS>   11488.2373     </BIAS>
+ <RMSE>  0.267997891     </RMSE>
+ <CORR>   4.80530046E+16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   12938.5801     </BIAS>
+ <RMSE> -0.559978247     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   17688.4180     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   12620.7773     </BIAS>
+ <RMSE> -0.333940953     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   22156.3945     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   15795.8701     </BIAS>
+ <RMSE> -0.687527955     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1425.00000     </MEAN_OBS>
+ <STDV_OBS>   17309.3711     </STDV_OBS>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   38406.7422     </MEAN>
+ <STDV>   2.55219329E+22 </STDV>
+ <BIAS>   5871.10400     </BIAS>
+ <RMSE>  0.220103994     </RMSE>
+ <CORR>   2.50902291E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   11085.2178     </BIAS>
+ <RMSE>  0.136213928     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   11877.7549     </BIAS>
+ <RMSE>  0.251080900     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   16512.6172     </BIAS>
+ <RMSE>  0.230728790     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2833.33350     </MEAN_OBS>
+ <STDV_OBS>   21191.3789     </STDV_OBS>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   36813.8008     </MEAN>
+ <STDV>   2.58340256E+22 </STDV>
+ <BIAS>   3968.59985     </BIAS>
+ <RMSE>  0.115342498     </RMSE>
+ <CORR>   7.65818395E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   19445.0332     </BIAS>
+ <RMSE>   4.83909845E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   11877.7549     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   12034.5518     </BIAS>
+ <RMSE>  -3.17282714E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   16512.6172     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   20277.1426     </BIAS>
+ <RMSE>   5.57549559E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   620.000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.50255213E+22 </STDV>
+ <BIAS>   1635.07800     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.94662550E+16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3698.61914     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1071.73914     </MEAN_OBS>
+ <STDV_OBS>   20328.7324     </STDV_OBS>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          46 </NUM>
+ <MEAN>   37171.3750     </MEAN>
+ <STDV>   3.48510225E+16 </STDV>
+ <BIAS>   9824.06641     </BIAS>
+ <RMSE>  0.186303914     </RMSE>
+ <CORR>   2.58306389E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          46 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   18616.6230     </BIAS>
+ <RMSE>  0.352548331     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          46 </NUM>
+ <MEAN>   3698.61914     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   17765.3262     </BIAS>
+ <RMSE>  0.382269621     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          46 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   19649.5430     </BIAS>
+ <RMSE>  0.372912854     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   346.578949     </MEAN_OBS>
+ <STDV_OBS>   22376.8203     </STDV_OBS>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          38 </NUM>
+ <MEAN>   31875.0527     </MEAN>
+ <STDV>   1.26192376E-07 </STDV>
+ <BIAS>   8853.70898     </BIAS>
+ <RMSE>  -8.77067298E-02 </RMSE>
+ <CORR>   2.55185799E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          38 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   21287.9688     </BIAS>
+ <RMSE>  -6.02985248E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          38 </NUM>
+ <MEAN>   17765.3262     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   11956.1016     </BIAS>
+ <RMSE> -0.132561132     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          38 </NUM>
+ <MEAN>   19649.5430     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   22077.9805     </BIAS>
+ <RMSE>   2.36932356E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   542.105286     </MEAN_OBS>
+ <STDV_OBS>   22778.0332     </STDV_OBS>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          38 </NUM>
+ <MEAN>   23657.8809     </MEAN>
+ <STDV>   2.58307109E+22 </STDV>
+ <BIAS>   15604.7314     </BIAS>
+ <RMSE>  0.398804665     </RMSE>
+ <CORR>   7.81338306E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          38 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   22555.8457     </BIAS>
+ <RMSE>  0.380240321     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          38 </NUM>
+ <MEAN>   11956.1016     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   17048.5547     </BIAS>
+ <RMSE>  0.517011940     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          38 </NUM>
+ <MEAN>   22077.9805     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   22242.5645     </BIAS>
+ <RMSE>  0.360768288     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1361.76477     </MEAN_OBS>
+ <STDV_OBS>   20292.6855     </STDV_OBS>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          17 </NUM>
+ <MEAN>   39119.1641     </MEAN>
+ <STDV>   3.48510225E+16 </STDV>
+ <BIAS>   10423.6377     </BIAS>
+ <RMSE> -0.119829707     </RMSE>
+ <CORR>   2.58340256E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          17 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   18887.8281     </BIAS>
+ <RMSE>  0.211209953     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          17 </NUM>
+ <MEAN>   17048.5547     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   14060.8691     </BIAS>
+ <RMSE>  0.189269736     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          17 </NUM>
+ <MEAN>   22242.5645     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   19556.1504     </BIAS>
+ <RMSE>  0.227491185     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   160.000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   1.21167830E-07 </STDV>
+ <BIAS>   1597.88110     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.76599722E+16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   14060.8691     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7276.94238     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   19556.1504     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   870.000000     </MEAN_OBS>
+ <STDV_OBS>   6901.59717     </STDV_OBS>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   46549.1992     </MEAN>
+ <STDV>   2.50250890E+22 </STDV>
+ <BIAS>   17726.3320     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.94662550E+16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7634.44824     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5976.96924     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1400.00000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.55191564E+22 </STDV>
+ <BIAS>   637.394714     </BIAS>
+ <RMSE>  0.629343629     </RMSE>
+ <CORR>   2.58306389E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   820.068298     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   7634.44824     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1392.34473     </BIAS>
+ <RMSE>  0.629346073     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   5976.96924     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   820.068298     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   220.000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2247 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.58307109E+22 </STDV>
+ <BIAS>   960.241638     </BIAS>
+ <RMSE>  0.858475804     </RMSE>
+ <CORR>   3.48510225E+16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2247 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   39.1918373     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2247 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3682.45142     </BIAS>
+ <RMSE>  0.858461022     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2247 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   39.1918373     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3926.66675     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   1.21167830E-07 </STDV>
+ <BIAS>   3287.42261     </BIAS>
+ <RMSE> -0.324407548     </RMSE>
+ <CORR>   4.80530046E+16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1840.03479     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   3682.45142     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   12629.6689     </BIAS>
+ <RMSE> -0.246511385     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   39.1918373     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1840.03479     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   370.000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.55219329E+22 </STDV>
+ <BIAS>   2313.54272     </BIAS>
+ <RMSE> -0.800453246     </RMSE>
+ <CORR>   2.58335932E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   199.198395     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   10690.9580     </BIAS>
+ <RMSE> -0.924088120     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   199.198395     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2630.00000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.55249593E+22 </STDV>
+ <BIAS>   4718.32520     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.50902291E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9674.28223     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3440.00000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.50250890E+22 </STDV>
+ <BIAS>   3249.04346     </BIAS>
+ <RMSE> -0.906794190     </RMSE>
+ <CORR>   4.94662550E+16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1371.90088     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   13222.1729     </BIAS>
+ <RMSE> -0.970984221     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1371.90088     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   100.000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2286 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.55190843E+22 </STDV>
+ <BIAS>   934.438843     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.58307109E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2286 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   16.0000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2286 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   13222.1729     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3315.53442     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2286 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   1371.90088     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   16.0000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2552.50000     </MEAN_OBS>
+ <STDV_OBS>   20095.2637     </STDV_OBS>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   33014.6641     </MEAN>
+ <STDV>   1.26192376E-07 </STDV>
+ <BIAS>   7545.10400     </BIAS>
+ <RMSE> -0.586101472     </RMSE>
+ <CORR>   2.58335932E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   16600.1367     </BIAS>
+ <RMSE> -0.485944778     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   3315.53442     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   12451.9297     </BIAS>
+ <RMSE> -0.473108292     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   16.0000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   20847.5762     </BIAS>
+ <RMSE> -0.602443516     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2082.50000     </MEAN_OBS>
+ <STDV_OBS>   15995.7666     </STDV_OBS>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   42423.4531     </MEAN>
+ <STDV>   2.58306389E+22 </STDV>
+ <BIAS>   10462.8857     </BIAS>
+ <RMSE>  0.348109573     </RMSE>
+ <CORR>   3.48510225E+16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   11463.0869     </BIAS>
+ <RMSE>  0.461582065     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   20073.6289     </BIAS>
+ <RMSE>  0.346192479     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   14751.5703     </BIAS>
+ <RMSE>  0.485193521     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5680.00000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2317 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.55218608E+22 </STDV>
+ <BIAS>   287.954865     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.58335932E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2317 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2317 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1135.85913     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2317 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   250.000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2408 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.50896526E+22 </STDV>
+ <BIAS>   228.000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   7.65818395E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2408 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2408 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   629.399719     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2408 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5020.00000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2411 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.58335932E+22 </STDV>
+ <BIAS>   1167.64978     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.48510225E+16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2411 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2411 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   629.399719     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   10835.6504     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2411 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2750.00000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2418 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.55191564E+22 </STDV>
+ <BIAS>   1847.18591     </BIAS>
+ <RMSE>  0.701162875     </RMSE>
+ <CORR>   1.21167830E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2418 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2249.97778     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2418 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2066.54102     </BIAS>
+ <RMSE>  0.701152384     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2418 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2249.97778     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   996.000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2423 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          10 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   7.81338306E-31 </STDV>
+ <BIAS>   3836.07617     </BIAS>
+ <RMSE> -0.913611710     </RMSE>
+ <CORR>   2.55218608E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2423 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          10 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1452.39111     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2423 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          10 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   14468.7031     </BIAS>
+ <RMSE> -0.878995955     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2423 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          10 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1452.39111     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   880.000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2429 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   4.80530046E+16 </STDV>
+ <BIAS>   803.870667     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.58335932E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2429 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2429 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1388.98523     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2429 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2150.00000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2431 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   3.39511925E+16 </STDV>
+ <BIAS>   1056.60022     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   1.26192376E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2431 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2431 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   1388.98523     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   12384.4482     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2431 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6000.00000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2432 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.58335932E+22 </STDV>
+ <BIAS>   232.401596     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.55184358E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2432 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2432 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   12384.4482     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1023.68744     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2432 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4900.00000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2498 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.58335932E+22 </STDV>
+ <BIAS>   2035.76428     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   7.74611939E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2498 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2498 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3517.44458     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2498 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4300.00000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.58335932E+22 </STDV>
+ <BIAS>   489.309723     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   7.74611939E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   249.158585     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5000.00000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2550 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   3.48510225E+16 </STDV>
+ <BIAS>   642.049866     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   7.81338306E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2550 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2550 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2986.49756     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2550 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2190.00000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2557 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.55218608E+22 </STDV>
+ <BIAS>   174.556580     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.55185799E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2557 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2557 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   808.831238     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2557 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4120.00000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2575 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.55249593E+22 </STDV>
+ <BIAS>   3436.22339     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.58335932E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2575 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2575 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5937.23438     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2575 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4430.00000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2679 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.55190843E+22 </STDV>
+ <BIAS>   531.631775     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   7.81338306E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2679 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2679 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1334.99951     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2679 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   760.000000     </MEAN_OBS>
+ <STDV_OBS>   10350.1299     </STDV_OBS>
+ <EXP>
+ <ID>        2714 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   46549.9570     </MEAN>
+ <STDV>   2.55248152E+22 </STDV>
+ <BIAS>   13411.0156     </BIAS>
+ <RMSE>  0.529003918     </RMSE>
+ <CORR>   2.58340256E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2714 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2046.81213     </BIAS>
+ <RMSE>  0.395284623     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2714 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   16917.2773     </BIAS>
+ <RMSE>  0.970819414     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2714 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9590.23535     </BIAS>
+ <RMSE>  0.395285249     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1137.05884     </MEAN_OBS>
+ <STDV_OBS>   22971.1621     </STDV_OBS>
+ <EXP>
+ <ID>        2726 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          17 </NUM>
+ <MEAN>   30163.9043     </MEAN>
+ <STDV>   2.55185799E+22 </STDV>
+ <BIAS>   5680.96191     </BIAS>
+ <RMSE>  0.828683138     </RMSE>
+ <CORR>   7.65818395E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2726 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          17 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   21579.3496     </BIAS>
+ <RMSE>  0.385906994     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2726 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          17 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   16734.9785     </BIAS>
+ <RMSE>  0.899746001     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2726 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          17 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   21599.9805     </BIAS>
+ <RMSE>  0.475841820     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   695.000000     </MEAN_OBS>
+ <STDV_OBS>   16.5247288     </STDV_OBS>
+ <EXP>
+ <ID>        2739 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.55248152E+22 </STDV>
+ <BIAS>   2630.46851     </BIAS>
+ <RMSE>  0.131738171     </RMSE>
+ <CORR>   2.58340256E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2739 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   364.505157     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2739 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   12615.6553     </BIAS>
+ <RMSE>  0.194768861     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2739 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   364.505157     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3596.66675     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2757 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   1.21167830E-07 </STDV>
+ <BIAS>   8181.09033     </BIAS>
+ <RMSE> -0.429101199     </RMSE>
+ <CORR>   4.80530046E+16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2757 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   599.092651     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2757 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   15236.1973     </BIAS>
+ <RMSE> -0.152737886     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2757 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   599.092651     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1128.00000     </MEAN_OBS>
+ <STDV_OBS>   22.7461967     </STDV_OBS>
+ <EXP>
+ <ID>        2777 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.55190843E+22 </STDV>
+ <BIAS>   1442.64343     </BIAS>
+ <RMSE>  0.241295293     </RMSE>
+ <CORR>   7.81338306E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2777 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   904.955261     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2777 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   10276.0615     </BIAS>
+ <RMSE>  0.219268486     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2777 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   904.955261     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1780.00000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2778 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.58335932E+22 </STDV>
+ <BIAS>   915.350220     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.58307109E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2778 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2778 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   10276.0615     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3496.98950     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2778 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   904.955261     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1970.00000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2787 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.55248152E+22 </STDV>
+ <BIAS>   180.227631     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.58340256E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2787 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2787 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3340.72559     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2787 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2860.00000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2789 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.58306389E+22 </STDV>
+ <BIAS>   1140.34998     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.55191564E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2789 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2789 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9602.59180     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2789 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5260.00000     </MEAN_OBS>
+ <STDV_OBS>   15322.1201     </STDV_OBS>
+ <EXP>
+ <ID>        2795 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   44582.8125     </MEAN>
+ <STDV>   3.48510225E+16 </STDV>
+ <BIAS>   11921.1035     </BIAS>
+ <RMSE>  0.535048902     </RMSE>
+ <CORR>   2.50896526E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2795 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   12873.3203     </BIAS>
+ <RMSE>  0.377983749     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2795 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   18841.3750     </BIAS>
+ <RMSE>  0.522122860     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2795 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   14317.4609     </BIAS>
+ <RMSE>  0.377937436     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   992.000000     </MEAN_OBS>
+ <STDV_OBS>   19226.3066     </STDV_OBS>
+ <EXP>
+ <ID>        2798 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   36434.8398     </MEAN>
+ <STDV>   3.43894230E+16 </STDV>
+ <BIAS>   3657.51587     </BIAS>
+ <RMSE> -0.216922998     </RMSE>
+ <CORR>   2.50900849E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2798 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   14985.3564     </BIAS>
+ <RMSE>  -1.74284261E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2798 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   15885.4600     </BIAS>
+ <RMSE> -0.168473378     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2798 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   18735.6035     </BIAS>
+ <RMSE>   3.02291475E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   615.000000     </MEAN_OBS>
+ <STDV_OBS>   21349.4141     </STDV_OBS>
+ <EXP>
+ <ID>        2799 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   38223.9375     </MEAN>
+ <STDV>   2.50255934E+22 </STDV>
+ <BIAS>   2981.01318     </BIAS>
+ <RMSE> -0.277119219     </RMSE>
+ <CORR>   2.55185799E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2799 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   17818.8359     </BIAS>
+ <RMSE> -0.139250189     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2799 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   15885.4600     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   11250.1562     </BIAS>
+ <RMSE> -0.405197471     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2799 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   18735.6035     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   19973.8125     </BIAS>
+ <RMSE>  -4.85484153E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   230.000000     </MEAN_OBS>
+ <STDV_OBS>   26237.1895     </STDV_OBS>
+ <EXP>
+ <ID>        2801 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   27364.6758     </MEAN>
+ <STDV>   3.48510225E+16 </STDV>
+ <BIAS>   4095.77930     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.94662550E+16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2801 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   21678.4180     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2801 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   12266.0752     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2801 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   22722.0723     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2116.66675     </MEAN_OBS>
+ <STDV_OBS>   17838.0078     </STDV_OBS>
+ <EXP>
+ <ID>        2804 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   12946.6201     </MEAN>
+ <STDV>   1.26192376E-07 </STDV>
+ <BIAS>   2551.06250     </BIAS>
+ <RMSE>   9.43151340E-02 </RMSE>
+ <CORR>   2.58340256E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2804 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   18284.8262     </BIAS>
+ <RMSE> -0.240011528     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2804 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4445.01514     </BIAS>
+ <RMSE>   1.55569864E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2804 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   17597.6660     </BIAS>
+ <RMSE> -0.229818985     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1205.00000     </MEAN_OBS>
+ <STDV_OBS>   106.710556     </STDV_OBS>
+ <EXP>
+ <ID>        2805 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   392.447540     </MEAN>
+ <STDV>   3.39511925E+16 </STDV>
+ <BIAS>   825.515381     </BIAS>
+ <RMSE>  0.478736430     </RMSE>
+ <CORR>   2.50902291E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2805 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   826.752075     </BIAS>
+ <RMSE>  0.472737074     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2805 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   4445.01514     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   825.515381     </BIAS>
+ <RMSE>  0.478736430     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2805 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   17597.6660     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   823.505249     </BIAS>
+ <RMSE>  0.463428497     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   793.333374     </MEAN_OBS>
+ <STDV_OBS>   14904.5195     </STDV_OBS>
+ <EXP>
+ <ID>        2814 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   14404.1445     </MEAN>
+ <STDV>   1.21167830E-07 </STDV>
+ <BIAS>   17783.7832     </BIAS>
+ <RMSE> -0.412041098     </RMSE>
+ <CORR>   2.58335932E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2814 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   16490.6406     </BIAS>
+ <RMSE>  -1.34719512E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2814 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   17612.9648     </BIAS>
+ <RMSE> -0.414572626     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2814 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   14461.4893     </BIAS>
+ <RMSE> -0.226190269     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2270.00000     </MEAN_OBS>
+ <STDV_OBS>   39.6416245     </STDV_OBS>
+ <EXP>
+ <ID>        2836 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   337.696350     </MEAN>
+ <STDV>   3.48510225E+16 </STDV>
+ <BIAS>   34.0734482     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.50897247E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2836 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   33.6377754     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2836 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   34.0734482     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2836 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   34.3256454     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   150.000000     </MEAN_OBS>
+ <STDV_OBS>   19747.0469     </STDV_OBS>
+ <EXP>
+ <ID>        2844 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   39666.8242     </MEAN>
+ <STDV>   2.58335932E+22 </STDV>
+ <BIAS>   1275.46387     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.76599722E+16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2844 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   12229.7002     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2844 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   34.0734482     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6975.23145     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2844 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   34.3256454     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   17101.4395     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3502.50000     </MEAN_OBS>
+ <STDV_OBS>   20230.1934     </STDV_OBS>
+ <EXP>
+ <ID>        2845 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   39006.1055     </MEAN>
+ <STDV>   2.50897247E+22 </STDV>
+ <BIAS>   4272.45508     </BIAS>
+ <RMSE> -0.102528647     </RMSE>
+ <CORR>   7.65818395E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2845 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   19221.8105     </BIAS>
+ <RMSE> -0.104341149     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2845 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   6975.23145     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   14074.5225     </BIAS>
+ <RMSE>  -3.63412611E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2845 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   17101.4395     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   19743.1406     </BIAS>
+ <RMSE> -0.115497425     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   840.000000     </MEAN_OBS>
+ <STDV_OBS>   25375.5625     </STDV_OBS>
+ <EXP>
+ <ID>        2847 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   26367.9512     </MEAN>
+ <STDV>   3.43894230E+16 </STDV>
+ <BIAS>   19264.1602     </BIAS>
+ <RMSE>  -4.55954373E-02 </RMSE>
+ <CORR>   2.58340256E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2847 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   23242.2832     </BIAS>
+ <RMSE>  -6.49578795E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2847 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   14074.5225     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   21430.9336     </BIAS>
+ <RMSE> -0.147392750     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2847 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   19743.1406     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   23766.4102     </BIAS>
+ <RMSE>  -3.39759663E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1049.09094     </MEAN_OBS>
+ <STDV_OBS>   18111.8594     </STDV_OBS>
+ <EXP>
+ <ID>        2862 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   40768.7539     </MEAN>
+ <STDV>   2.58306389E+22 </STDV>
+ <BIAS>   11051.9062     </BIAS>
+ <RMSE>  -3.67479632E-03 </RMSE>
+ <CORR>   1.23426219E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2862 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   15135.8389     </BIAS>
+ <RMSE>  0.114185497     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2862 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   12461.8564     </BIAS>
+ <RMSE>   8.15236345E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2862 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   17718.9941     </BIAS>
+ <RMSE>   1.65097471E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   364.761902     </MEAN_OBS>
+ <STDV_OBS>   16221.0947     </STDV_OBS>
+ <EXP>
+ <ID>        2866 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          21 </NUM>
+ <MEAN>   40803.9297     </MEAN>
+ <STDV>   2.50902291E+22 </STDV>
+ <BIAS>   9739.75098     </BIAS>
+ <RMSE> -0.211701006     </RMSE>
+ <CORR>   7.74611939E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2866 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          21 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   13603.4111     </BIAS>
+ <RMSE> -0.584704578     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2866 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          21 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   13025.3662     </BIAS>
+ <RMSE> -0.265746385     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2866 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          21 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   15966.7373     </BIAS>
+ <RMSE> -0.666055560     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   341.666687     </MEAN_OBS>
+ <STDV_OBS>   16781.3984     </STDV_OBS>
+ <EXP>
+ <ID>        2869 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          24 </NUM>
+ <MEAN>   43790.7812     </MEAN>
+ <STDV>   2.55218608E+22 </STDV>
+ <BIAS>   9165.96289     </BIAS>
+ <RMSE> -0.208031401     </RMSE>
+ <CORR>   2.58340256E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2869 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          24 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   16461.1973     </BIAS>
+ <RMSE>   8.57343450E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2869 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          24 </NUM>
+ <MEAN>   13025.3662     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   13946.6689     </BIAS>
+ <RMSE> -0.117440596     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2869 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          24 </NUM>
+ <MEAN>   15966.7373     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   16416.6699     </BIAS>
+ <RMSE>   8.57390091E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3638.63647     </MEAN_OBS>
+ <STDV_OBS>   17450.3320     </STDV_OBS>
+ <EXP>
+ <ID>        2873 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   31654.7734     </MEAN>
+ <STDV>   2.58335932E+22 </STDV>
+ <BIAS>   14726.3193     </BIAS>
+ <RMSE> -0.508746505     </RMSE>
+ <CORR>   1.26087542E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2873 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   11145.0654     </BIAS>
+ <RMSE> -0.791741192     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2873 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   17802.6934     </BIAS>
+ <RMSE> -0.575231433     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2873 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   18918.6211     </BIAS>
+ <RMSE> -0.868041575     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   480.000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2876 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   3.41525406E+16 </STDV>
+ <BIAS>   688.220886     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   7.65818395E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2876 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2876 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2179.58521     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2876 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2569.33350     </MEAN_OBS>
+ <STDV_OBS>   10228.4736     </STDV_OBS>
+ <EXP>
+ <ID>        2897 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          30 </NUM>
+ <MEAN>   47335.0000     </MEAN>
+ <STDV>   2.50255934E+22 </STDV>
+ <BIAS>   10544.6455     </BIAS>
+ <RMSE> -0.164341375     </RMSE>
+ <CORR>   2.55219329E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2897 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          30 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9208.41309     </BIAS>
+ <RMSE> -0.431136549     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2897 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          30 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9296.05469     </BIAS>
+ <RMSE> -0.330133945     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2897 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          30 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   11093.3438     </BIAS>
+ <RMSE> -0.462112337     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   397.500000     </MEAN_OBS>
+ <STDV_OBS>   16.5247288     </STDV_OBS>
+ <EXP>
+ <ID>        2913 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.50897247E+22 </STDV>
+ <BIAS>   1396.80774     </BIAS>
+ <RMSE>  0.749211788     </RMSE>
+ <CORR>   7.74969336E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2913 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   204.899979     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2913 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5593.80225     </BIAS>
+ <RMSE>  0.749219835     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2913 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   204.899979     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1326.00000     </MEAN_OBS>
+ <STDV_OBS>   22.7461967     </STDV_OBS>
+ <EXP>
+ <ID>        2929 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.58306389E+22 </STDV>
+ <BIAS>   1860.40479     </BIAS>
+ <RMSE>  0.263772070     </RMSE>
+ <CORR>   1.26192376E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2929 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1111.97119     </BIAS>
+ <RMSE>   2.59620894E-04 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2929 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   13244.4912     </BIAS>
+ <RMSE>  0.170169100     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2929 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1111.97119     </BIAS>
+ <RMSE>   2.59620894E-04 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1950.00000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2944 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   3.39511925E+16 </STDV>
+ <BIAS>   2590.99976     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.58307109E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2944 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2944 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1714.24158     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2944 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   325.000000     </MEAN_OBS>
+ <STDV_OBS>   16.5247288     </STDV_OBS>
+ <EXP>
+ <ID>        2945 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.55249593E+22 </STDV>
+ <BIAS>   771.142029     </BIAS>
+ <RMSE>  0.674764037     </RMSE>
+ <CORR>   1.26087542E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2945 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   103.691849     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2945 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   1714.24158     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4010.34668     </BIAS>
+ <RMSE>  0.488677919     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2945 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   103.691849     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   885.000000     </MEAN_OBS>
+ <STDV_OBS>   16.5247288     </STDV_OBS>
+ <EXP>
+ <ID>        2948 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   3.41525406E+16 </STDV>
+ <BIAS>   2246.25293     </BIAS>
+ <RMSE> -0.142547503     </RMSE>
+ <CORR>   7.65818395E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2948 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   533.066589     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2948 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   14635.2822     </BIAS>
+ <RMSE>  -9.24658179E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2948 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   533.066589     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1524.00000     </MEAN_OBS>
+ <STDV_OBS>   7249.72363     </STDV_OBS>
+ <EXP>
+ <ID>        2963 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   48378.9180     </MEAN>
+ <STDV>   3.43894230E+16 </STDV>
+ <BIAS>   14494.2646     </BIAS>
+ <RMSE>  0.772986174     </RMSE>
+ <CORR>   1.23426219E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2963 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2156.20410     </BIAS>
+ <RMSE>  -2.84699015E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2963 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   13666.0674     </BIAS>
+ <RMSE>  0.378590018     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2963 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7212.23828     </BIAS>
+ <RMSE>  -2.84711476E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1360.00000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2966 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   2.50897247E+22 </STDV>
+ <BIAS>   1324.18726     </BIAS>
+ <RMSE>   3.85008976E-02 </RMSE>
+ <CORR>   7.65818395E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2966 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1150.10962     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2966 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3019.00122     </BIAS>
+ <RMSE>   3.85350250E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2966 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1150.10962     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   340.000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2967 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           5 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   3.48510225E+16 </STDV>
+ <BIAS>   11099.1865     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.80530046E+16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2967 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           5 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2967 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           5 </NUM>
+ <MEAN>   3019.00122     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7259.51416     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2967 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           5 </NUM>
+ <MEAN>   1150.10962     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   320.000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2974 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   7.65818395E-31 </STDV>
+ <BIAS>   1581.54858     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.55191564E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2974 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2974 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   7259.51416     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2974 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2477.77783     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2976 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   4.80530046E+16 </STDV>
+ <BIAS>   10231.3428     </BIAS>
+ <RMSE> -0.630464971     </RMSE>
+ <CORR>   1.21167830E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2976 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   109.690475     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2976 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   12160.9766     </BIAS>
+ <RMSE> -0.892624497     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2976 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   109.690475     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3095.00000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2984 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   4.80530046E+16 </STDV>
+ <BIAS>   5851.56641     </BIAS>
+ <RMSE> -0.381195307     </RMSE>
+ <CORR>   2.50249449E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2984 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2634.95264     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2984 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5482.97168     </BIAS>
+ <RMSE> -0.330577910     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2984 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2634.95264     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   910.000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2992 </ID>
+ <NAME>Vis_a</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   50000.0000     </MEAN>
+ <STDV>   4.80530046E+16 </STDV>
+ <BIAS>   3049.66357     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.50255213E+22 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2992 </ID>
+ <NAME>Vis_b</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2992 </ID>
+ <NAME>Vis_c</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5269.32861     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2992 </ID>
+ <NAME>Vis_d</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+</STAT>
