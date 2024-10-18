@@ -1,7 +1,7 @@
 set terminal png
 set output "fc_00000000_00000000_METCOOP_ALL_VI_0_thresholds.1.png"
 set datafile missing "-99"
-set title "Frequency  for Visibility (m)\n   Selection: METCOOP     99 stations\n  Period: 20220310-20220313\n  Used {12,18} + 00 03 ... 48" 
+set title "Frequency  for Visibility (m)\n   Selection: METCOOP    144 stations\n  Period: 20220310-20220314\n  Used {12,18} + 00 03 ... 48" 
 
 set style line 1 lt 0 lw 1 pt 5 # use black thin lines
 set style line 2 lt 8 lw 1 pt 1 # use black thicker lines
